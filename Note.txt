@@ -1,0 +1,4 @@
+https://medium.com/ngconf/a-storybook-with-angular-41b1a5617c9
+
+I don't think this is what i want, I am after something that has addon, that I can easily modify the property and see the change in the UI.
+Just normal display is the same as what I already got from PrimeNG.
